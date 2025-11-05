@@ -1,4 +1,4 @@
-from project.pokemon import Pokemon
+from First_steps_in_OOP_exercise.zad8.project.pokemon import Pokemon
 
 class Trainer:
     def __init__(self, name: str, pokemons: list[Pokemon] = []):
@@ -23,6 +23,6 @@ class Trainer:
     def trainer_data(self) -> str:
         result = f"Pokemon Trainer {self.name}\nPokemon count {len(self.pokemons)}"
         for p in self.pokemons:
-            result += "\n" + p.pokemon_details()
+            result += "\n- " + p.pokemon_details()
 
         return result
