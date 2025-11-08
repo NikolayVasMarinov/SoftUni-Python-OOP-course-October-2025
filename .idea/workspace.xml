@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Exercise 6 initial commit">
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad7/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad7/project/album.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad7/project/band.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad7/project/song.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Exercise 7 initial commit">
+      <change afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad8/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad8/project/library.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad8/project/registration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad8/project/user.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -63,8 +63,12 @@
     "Python.album.executor": "Run",
     "Python.band.executor": "Run",
     "Python.guild.executor": "Run",
+    "Python.library.executor": "Run",
+    "Python.registration.executor": "Run",
     "Python.section.executor": "Run",
+    "Python.temp.executor": "Run",
     "Python.trainer.executor": "Run",
+    "Python.user.executor": "Run",
     "Python.zad1.executor": "Run",
     "Python.zad2.executor": "Run",
     "Python.zad3.executor": "Run",
@@ -418,12 +422,19 @@
       <option name="project" value="LOCAL" />
       <updated>1762624542883</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Exercise 7 initial commit">
+      <option name="closed" value="true" />
+      <created>1762625857491</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1762625857491</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="stop tracking .idea folder" />
-    <MESSAGE value="Exercise 7 initial commit" />
     <MESSAGE value="Exercise 8 pokemon.py initial commit" />
     <MESSAGE value="Exercise 8 initial commit" />
     <MESSAGE value="Fixed release pokemon logic" />
@@ -435,6 +446,7 @@
     <MESSAGE value="Exercise 4 initial commit" />
     <MESSAGE value="Exercise 5 initial commit" />
     <MESSAGE value="Exercise 6 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 6 initial commit" />
+    <MESSAGE value="Exercise 7 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 7 initial commit" />
   </component>
 </project>
