@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Exercise 1 initial commit">
-      <change afterPath="$PROJECT_DIR$/First_steps_in_OOP_exercise/zad2.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Exercise 5 initial commit">
+      <change afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad6/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad6/project/guild.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad6/project/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad6/project/temp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes_and_objects_exercise/zad5/project/section.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad5/project/section.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,15 +51,124 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.zad1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zad2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zad4.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for temp.PlayerTest.test_assign_working.executor": "Run",
+    "Python tests.Python tests for temp.PlayerTest.test_assigning_player_in_the_same_guild.executor": "Run",
+    "Python tests.Python tests for temp.PokemonTest.test_adding_already_added_pokemon.executor": "Run",
+    "Python tests.Python tests for temp.PokemonTest.test_adding_second_pokemon.executor": "Run",
+    "Python tests.Python tests for temp.PokemonTest.test_releasing_pokemon.executor": "Run",
+    "Python tests.Python tests for temp.PokemonTest.test_releasing_pokemon_that_is_not_caught.executor": "Run",
+    "Python tests.Python tests for temp.PokemonTest.test_trainer_data.executor": "Run",
+    "Python tests.Python tests in temp.py.executor": "Run",
+    "Python.guild.executor": "Run",
+    "Python.section.executor": "Run",
+    "Python.trainer.executor": "Run",
+    "Python.zad1.executor": "Run",
+    "Python.zad2.executor": "Run",
+    "Python.zad3.executor": "Run",
+    "Python.zad4.executor": "Run",
+    "Python.zad5.executor": "Run",
+    "Python.zad6.executor": "Run",
+    "Python.zad7.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse" />
+      <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse\First_steps_in_OOP_exercise\zad8" />
+      <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse\First_steps_in_OOP_exercise" />
+      <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse\First_steps_in_OOP_exercise\zad8\project" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Python tests for temp.PlayerTest.test_assign_working" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Oct2025OOPCourse" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classes_and_objects_exercise/zad6/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;temp.PlayerTest.test_assign_working&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for temp.PlayerTest.test_assigning_player_in_the_same_guild" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Oct2025OOPCourse" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classes_and_objects_exercise/zad6/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;temp.PlayerTest.test_assigning_player_in_the_same_guild&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for temp.PokemonTest.test_adding_already_added_pokemon" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Oct2025OOPCourse" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;temp.PokemonTest.test_adding_already_added_pokemon&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for temp.PokemonTest.test_adding_second_pokemon" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Oct2025OOPCourse" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;temp.PokemonTest.test_adding_second_pokemon&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for temp.PokemonTest.test_trainer_data" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Oct2025OOPCourse" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;temp.PokemonTest.test_trainer_data&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for temp.PlayerTest.test_assigning_player_in_the_same_guild" />
+        <item itemvalue="Python tests.Python tests for temp.PlayerTest.test_assign_working" />
+        <item itemvalue="Python tests.Python tests for temp.PokemonTest.test_adding_already_added_pokemon" />
+        <item itemvalue="Python tests.Python tests for temp.PokemonTest.test_trainer_data" />
+        <item itemvalue="Python tests.Python tests for temp.PokemonTest.test_adding_second_pokemon" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -118,15 +233,199 @@
       <option name="project" value="LOCAL" />
       <updated>1762200138731</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Exercise 2 initial commit">
+      <option name="closed" value="true" />
+      <created>1762200326228</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1762200326228</updated>
+    </task>
+    <task id="LOCAL-00008" summary="stop tracking .idea folder">
+      <option name="closed" value="true" />
+      <created>1762200645588</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1762200645588</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Exercise 3 initial commit">
+      <option name="closed" value="true" />
+      <created>1762201183309</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1762201183309</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Exercise 4 initial commit">
+      <option name="closed" value="true" />
+      <created>1762201309999</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1762201309999</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Exercise 5 initial commit">
+      <option name="closed" value="true" />
+      <created>1762201523722</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1762201523722</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Exercise 6 initial commit">
+      <option name="closed" value="true" />
+      <created>1762201870120</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1762201870120</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Exercise 7 initial commit">
+      <option name="closed" value="true" />
+      <created>1762202253300</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1762202253300</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Exercise 8 pokemon.py initial commit">
+      <option name="closed" value="true" />
+      <created>1762288477655</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1762288477655</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Exercise 8 initial commit">
+      <option name="closed" value="true" />
+      <created>1762289481375</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1762289481375</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Fixed release pokemon logic">
+      <option name="closed" value="true" />
+      <created>1762371802105</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1762371802105</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Removed test input">
+      <option name="closed" value="true" />
+      <created>1762371839621</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1762371839621</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Exercise 1 initial commit">
+      <option name="closed" value="true" />
+      <created>1762614590930</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1762614590930</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Exercise 2 initial commit">
+      <option name="closed" value="true" />
+      <created>1762614892393</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1762614892393</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Exercise 3 initial commit">
+      <option name="closed" value="true" />
+      <created>1762615085676</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1762615085676</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Exercise 4 initial commit">
+      <option name="closed" value="true" />
+      <created>1762615336700</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1762615336700</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Exercise 5 initial commit">
+      <option name="closed" value="true" />
+      <created>1762615613354</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1762615613354</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Exercise 1 initial commit">
+      <option name="closed" value="true" />
+      <created>1762618498072</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1762618498072</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Exercise 2 initial commit">
+      <option name="closed" value="true" />
+      <created>1762618893608</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1762618893608</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Updated exercise 2 to use class attributes for validation">
+      <option name="closed" value="true" />
+      <created>1762619046601</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1762619046601</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Exercise 3 initial commit">
+      <option name="closed" value="true" />
+      <created>1762619322356</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1762619322356</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Exercise 4 initial commit">
+      <option name="closed" value="true" />
+      <created>1762619977418</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1762619977418</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Exercise 5 initial commit">
+      <option name="closed" value="true" />
+      <created>1762622722764</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1762622722764</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="stop tracking .idea folder" />
+    <MESSAGE value="Exercise 6 initial commit" />
+    <MESSAGE value="Exercise 7 initial commit" />
+    <MESSAGE value="Exercise 8 pokemon.py initial commit" />
+    <MESSAGE value="Exercise 8 initial commit" />
+    <MESSAGE value="Fixed release pokemon logic" />
+    <MESSAGE value="Removed test input" />
+    <MESSAGE value="Exercise 1 initial commit" />
     <MESSAGE value="Exercise 2 initial commit" />
+    <MESSAGE value="Updated exercise 2 to use class attributes for validation" />
     <MESSAGE value="Exercise 3 initial commit" />
     <MESSAGE value="Exercise 4 initial commit" />
     <MESSAGE value="Exercise 5 initial commit" />
-    <MESSAGE value="Exercise 1 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 1 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 5 initial commit" />
   </component>
 </project>
