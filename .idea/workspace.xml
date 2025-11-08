@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Exercise 5 initial commit">
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad6/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad6/project/guild.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad6/project/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad6/project/temp.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Exercise 6 initial commit">
+      <change afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad7/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad7/project/album.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad7/project/band.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad7/project/song.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_exercise/zad5/project/section.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad5/project/section.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +60,8 @@
     "Python tests.Python tests for temp.PokemonTest.test_releasing_pokemon_that_is_not_caught.executor": "Run",
     "Python tests.Python tests for temp.PokemonTest.test_trainer_data.executor": "Run",
     "Python tests.Python tests in temp.py.executor": "Run",
+    "Python.album.executor": "Run",
+    "Python.band.executor": "Run",
     "Python.guild.executor": "Run",
     "Python.section.executor": "Run",
     "Python.trainer.executor": "Run",
@@ -409,12 +410,19 @@
       <option name="project" value="LOCAL" />
       <updated>1762622722764</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Exercise 6 initial commit">
+      <option name="closed" value="true" />
+      <created>1762624542883</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1762624542883</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="stop tracking .idea folder" />
-    <MESSAGE value="Exercise 6 initial commit" />
     <MESSAGE value="Exercise 7 initial commit" />
     <MESSAGE value="Exercise 8 pokemon.py initial commit" />
     <MESSAGE value="Exercise 8 initial commit" />
@@ -426,6 +434,7 @@
     <MESSAGE value="Exercise 3 initial commit" />
     <MESSAGE value="Exercise 4 initial commit" />
     <MESSAGE value="Exercise 5 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 5 initial commit" />
+    <MESSAGE value="Exercise 6 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 6 initial commit" />
   </component>
 </project>
