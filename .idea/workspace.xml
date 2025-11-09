@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Improved changing username so that it updates the library records and specified that the Registration class methods are static">
-      <change afterPath="$PROJECT_DIR$/Inheritance/zad1/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zad1/project/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zad1/project/fruit.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Exercise 1 initial commit">
+      <change afterPath="$PROJECT_DIR$/Inheritance/zad2/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/zad2/project/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/zad2/project/dog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes_and_objects_exercise/zad8/project/registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes_and_objects_exercise/zad8/project/registration.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -445,7 +445,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762692370602</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Exercise 1 initial commit">
+      <option name="closed" value="true" />
+      <created>1762693172632</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1762693172632</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -453,7 +461,6 @@
     <MESSAGE value="Exercise 8 pokemon.py initial commit" />
     <MESSAGE value="Fixed release pokemon logic" />
     <MESSAGE value="Removed test input" />
-    <MESSAGE value="Exercise 1 initial commit" />
     <MESSAGE value="Exercise 2 initial commit" />
     <MESSAGE value="Updated exercise 2 to use class attributes for validation" />
     <MESSAGE value="Exercise 3 initial commit" />
@@ -463,6 +470,7 @@
     <MESSAGE value="Exercise 7 initial commit" />
     <MESSAGE value="Exercise 8 initial commit" />
     <MESSAGE value="Improved changing username so that it updates the library records and specified that the Registration class methods are static" />
-    <option name="LAST_COMMIT_MESSAGE" value="Improved changing username so that it updates the library records and specified that the Registration class methods are static" />
+    <MESSAGE value="Exercise 1 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 1 initial commit" />
   </component>
 </project>
