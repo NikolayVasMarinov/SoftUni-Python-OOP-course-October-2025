@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Exercise 2 initial commit">
-      <change afterPath="$PROJECT_DIR$/Inheritance/zad3/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zad3/project/employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zad3/project/person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zad3/project/teacher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zad4/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zad4/project/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zad4/project/sports_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zad4/project/vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zad5/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zad5/project/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zad5/project/cat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zad5/project/dog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zad6.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Exercise 6 initial commit">
+      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad1/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad1/project/child.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad1/project/person.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -59,36 +49,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for temp.PlayerTest.test_assign_working.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for temp.PlayerTest.test_assigning_player_in_the_same_guild.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for temp.PokemonTest.test_adding_already_added_pokemon.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for temp.PokemonTest.test_adding_second_pokemon.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for temp.PokemonTest.test_releasing_pokemon.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for temp.PokemonTest.test_releasing_pokemon_that_is_not_caught.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for temp.PokemonTest.test_trainer_data.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in temp.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.album.executor&quot;: &quot;Run&quot;,
-    &quot;Python.band.executor&quot;: &quot;Run&quot;,
-    &quot;Python.guild.executor&quot;: &quot;Run&quot;,
-    &quot;Python.library.executor&quot;: &quot;Run&quot;,
-    &quot;Python.registration.executor&quot;: &quot;Run&quot;,
-    &quot;Python.section.executor&quot;: &quot;Run&quot;,
-    &quot;Python.temp.executor&quot;: &quot;Run&quot;,
-    &quot;Python.trainer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.user.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zad1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zad2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zad3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zad4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zad5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zad6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zad7.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for temp.PlayerTest.test_assign_working.executor": "Run",
+    "Python tests.Python tests for temp.PlayerTest.test_assigning_player_in_the_same_guild.executor": "Run",
+    "Python tests.Python tests for temp.PokemonTest.test_adding_already_added_pokemon.executor": "Run",
+    "Python tests.Python tests for temp.PokemonTest.test_adding_second_pokemon.executor": "Run",
+    "Python tests.Python tests for temp.PokemonTest.test_releasing_pokemon.executor": "Run",
+    "Python tests.Python tests for temp.PokemonTest.test_releasing_pokemon_that_is_not_caught.executor": "Run",
+    "Python tests.Python tests for temp.PokemonTest.test_trainer_data.executor": "Run",
+    "Python tests.Python tests in temp.py.executor": "Run",
+    "Python.album.executor": "Run",
+    "Python.band.executor": "Run",
+    "Python.child.executor": "Run",
+    "Python.guild.executor": "Run",
+    "Python.library.executor": "Run",
+    "Python.registration.executor": "Run",
+    "Python.section.executor": "Run",
+    "Python.temp.executor": "Run",
+    "Python.trainer.executor": "Run",
+    "Python.user.executor": "Run",
+    "Python.zad1.executor": "Run",
+    "Python.zad2.executor": "Run",
+    "Python.zad3.executor": "Run",
+    "Python.zad4.executor": "Run",
+    "Python.zad5.executor": "Run",
+    "Python.zad6.executor": "Run",
+    "Python.zad7.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse" />
@@ -97,7 +88,7 @@
       <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse\First_steps_in_OOP_exercise\zad8\project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for temp.PlayerTest.test_assign_working">
+  <component name="RunManager">
     <configuration name="Python tests for temp.PlayerTest.test_assign_working" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Oct2025OOPCourse" />
       <option name="ENV_FILES" value="" />
@@ -471,7 +462,39 @@
       <option name="project" value="LOCAL" />
       <updated>1762693939065</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Exercise 3 initial commit">
+      <option name="closed" value="true" />
+      <created>1762720121485</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1762720121485</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Exercise 4 initial commit">
+      <option name="closed" value="true" />
+      <created>1762720143021</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1762720143021</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Exercise 5 initial commit">
+      <option name="closed" value="true" />
+      <created>1762720154033</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1762720154033</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Exercise 6 initial commit">
+      <option name="closed" value="true" />
+      <created>1762720163390</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1762720163390</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -480,15 +503,15 @@
     <MESSAGE value="Fixed release pokemon logic" />
     <MESSAGE value="Removed test input" />
     <MESSAGE value="Updated exercise 2 to use class attributes for validation" />
-    <MESSAGE value="Exercise 3 initial commit" />
-    <MESSAGE value="Exercise 4 initial commit" />
-    <MESSAGE value="Exercise 5 initial commit" />
-    <MESSAGE value="Exercise 6 initial commit" />
     <MESSAGE value="Exercise 7 initial commit" />
     <MESSAGE value="Exercise 8 initial commit" />
     <MESSAGE value="Improved changing username so that it updates the library records and specified that the Registration class methods are static" />
     <MESSAGE value="Exercise 1 initial commit" />
     <MESSAGE value="Exercise 2 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 2 initial commit" />
+    <MESSAGE value="Exercise 3 initial commit" />
+    <MESSAGE value="Exercise 4 initial commit" />
+    <MESSAGE value="Exercise 5 initial commit" />
+    <MESSAGE value="Exercise 6 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 6 initial commit" />
   </component>
 </project>
