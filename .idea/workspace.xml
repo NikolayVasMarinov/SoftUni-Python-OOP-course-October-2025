@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Inheritance exercise: Exercise 3 initial commit">
-      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad4/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad4/project/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad4/project/cross_motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad4/project/family_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad4/project/motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad4/project/race_motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad4/project/sport_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad4/project/temp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad4/project/vehicle.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Inheritance exercise: Exercise 4 initial commit">
+      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad5/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad5/project/drink.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad5/project/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad5/project/product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad5/project/product_repository.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -55,38 +51,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for temp.PlayerTest.test_assign_working.executor": "Run",
-    "Python tests.Python tests for temp.PlayerTest.test_assigning_player_in_the_same_guild.executor": "Run",
-    "Python tests.Python tests for temp.PokemonTest.test_adding_already_added_pokemon.executor": "Run",
-    "Python tests.Python tests for temp.PokemonTest.test_adding_second_pokemon.executor": "Run",
-    "Python tests.Python tests for temp.PokemonTest.test_releasing_pokemon.executor": "Run",
-    "Python tests.Python tests for temp.PokemonTest.test_releasing_pokemon_that_is_not_caught.executor": "Run",
-    "Python tests.Python tests for temp.PokemonTest.test_trainer_data.executor": "Run",
-    "Python tests.Python tests in temp.py.executor": "Run",
-    "Python.album.executor": "Run",
-    "Python.band.executor": "Run",
-    "Python.child.executor": "Run",
-    "Python.guild.executor": "Run",
-    "Python.library.executor": "Run",
-    "Python.registration.executor": "Run",
-    "Python.section.executor": "Run",
-    "Python.snake.executor": "Run",
-    "Python.temp.executor": "Run",
-    "Python.trainer.executor": "Run",
-    "Python.user.executor": "Run",
-    "Python.zad1.executor": "Run",
-    "Python.zad2.executor": "Run",
-    "Python.zad3.executor": "Run",
-    "Python.zad4.executor": "Run",
-    "Python.zad5.executor": "Run",
-    "Python.zad6.executor": "Run",
-    "Python.zad7.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for temp.PlayerTest.test_assign_working.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.PlayerTest.test_assigning_player_in_the_same_guild.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.PokemonTest.test_adding_already_added_pokemon.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.PokemonTest.test_adding_second_pokemon.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.PokemonTest.test_releasing_pokemon.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.PokemonTest.test_releasing_pokemon_that_is_not_caught.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.PokemonTest.test_trainer_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in temp.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.album.executor&quot;: &quot;Run&quot;,
+    &quot;Python.band.executor&quot;: &quot;Run&quot;,
+    &quot;Python.child.executor&quot;: &quot;Run&quot;,
+    &quot;Python.guild.executor&quot;: &quot;Run&quot;,
+    &quot;Python.library.executor&quot;: &quot;Run&quot;,
+    &quot;Python.registration.executor&quot;: &quot;Run&quot;,
+    &quot;Python.section.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake.executor&quot;: &quot;Run&quot;,
+    &quot;Python.temp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.trainer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.user.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad7.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse" />
@@ -525,7 +521,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762773687845</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Inheritance exercise: Exercise 4 initial commit">
+      <option name="closed" value="true" />
+      <created>1762774717837</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1762774717837</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -545,6 +549,7 @@
     <MESSAGE value="Exercise 1 initial commit" />
     <MESSAGE value="Inheritance exercise: Exercise 2 initial commit" />
     <MESSAGE value="Inheritance exercise: Exercise 3 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance exercise: Exercise 3 initial commit" />
+    <MESSAGE value="Inheritance exercise: Exercise 4 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance exercise: Exercise 4 initial commit" />
   </component>
 </project>
