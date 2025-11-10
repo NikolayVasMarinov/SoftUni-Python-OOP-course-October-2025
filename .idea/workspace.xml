@@ -4,16 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Exercise 1 initial commit">
-      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad2/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad2/project/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad2/project/bear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad2/project/gorilla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad2/project/lizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad2/project/mammal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad2/project/reptile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad2/project/snake.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Inheritance exercise: Exercise 2 initial commit">
+      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad3/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad3/project/blade_knight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad3/project/dark_knight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad3/project/dark_wizard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad3/project/elf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad3/project/hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad3/project/knight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad3/project/muse_elf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad3/project/soul_master.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad3/project/temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad3/project/wizard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +74,7 @@
     "Python.library.executor": "Run",
     "Python.registration.executor": "Run",
     "Python.section.executor": "Run",
+    "Python.snake.executor": "Run",
     "Python.temp.executor": "Run",
     "Python.trainer.executor": "Run",
     "Python.user.executor": "Run",
@@ -506,7 +511,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762772684078</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Inheritance exercise: Exercise 2 initial commit">
+      <option name="closed" value="true" />
+      <created>1762773135179</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1762773135179</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -524,6 +537,7 @@
     <MESSAGE value="Exercise 5 initial commit" />
     <MESSAGE value="Exercise 6 initial commit" />
     <MESSAGE value="Exercise 1 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 1 initial commit" />
+    <MESSAGE value="Inheritance exercise: Exercise 2 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance exercise: Exercise 2 initial commit" />
   </component>
 </project>
