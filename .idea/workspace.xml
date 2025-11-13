@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Inheritance exercise: Exercise 5 initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Encapsulation: Exercise 1 initial commit">
+      <change afterPath="$PROJECT_DIR$/Encapsulation/zad2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -532,7 +531,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762808820023</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Encapsulation: Exercise 1 initial commit">
+      <option name="closed" value="true" />
+      <created>1763062848499</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1763062848499</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -554,6 +561,7 @@
     <MESSAGE value="Inheritance exercise: Exercise 3 initial commit" />
     <MESSAGE value="Inheritance exercise: Exercise 4 initial commit" />
     <MESSAGE value="Inheritance exercise: Exercise 5 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance exercise: Exercise 5 initial commit" />
+    <MESSAGE value="Encapsulation: Exercise 1 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation: Exercise 1 initial commit" />
   </component>
 </project>
