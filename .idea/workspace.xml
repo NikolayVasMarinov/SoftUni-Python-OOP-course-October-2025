@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Inheritance exercise: Exercise 4 initial commit">
-      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad5/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad5/project/drink.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad5/project/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad5/project/product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance_exercise/zad5/project/product_repository.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Inheritance exercise: Exercise 5 initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -529,7 +524,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762774717837</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Inheritance exercise: Exercise 5 initial commit">
+      <option name="closed" value="true" />
+      <created>1762808820023</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1762808820023</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -550,6 +553,7 @@
     <MESSAGE value="Inheritance exercise: Exercise 2 initial commit" />
     <MESSAGE value="Inheritance exercise: Exercise 3 initial commit" />
     <MESSAGE value="Inheritance exercise: Exercise 4 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance exercise: Exercise 4 initial commit" />
+    <MESSAGE value="Inheritance exercise: Exercise 5 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance exercise: Exercise 5 initial commit" />
   </component>
 </project>
