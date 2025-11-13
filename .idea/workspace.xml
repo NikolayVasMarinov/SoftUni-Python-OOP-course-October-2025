@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Encapsulation: Exercise 2 initial commit">
-      <change afterPath="$PROJECT_DIR$/Encapsulation/zad3.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Encapsulation: Exercise 3 initial commit">
+      <change afterPath="$PROJECT_DIR$/Encapsulation/zad4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/zad3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Encapsulation/zad3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -548,7 +549,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763063105349</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Encapsulation: Exercise 3 initial commit">
+      <option name="closed" value="true" />
+      <created>1763068439636</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1763068439636</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -572,6 +581,7 @@
     <MESSAGE value="Inheritance exercise: Exercise 5 initial commit" />
     <MESSAGE value="Encapsulation: Exercise 1 initial commit" />
     <MESSAGE value="Encapsulation: Exercise 2 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation: Exercise 2 initial commit" />
+    <MESSAGE value="Encapsulation: Exercise 3 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation: Exercise 3 initial commit" />
   </component>
 </project>
