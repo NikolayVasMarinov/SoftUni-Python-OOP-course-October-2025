@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Encapsulation: Exercise 3 initial commit">
-      <change afterPath="$PROJECT_DIR$/Encapsulation/zad4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encapsulation/zad3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Encapsulation/zad3.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Encapsulation: Exercise 4 initial_commit">
+      <change afterPath="$PROJECT_DIR$/Encapsulation/zad5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -557,7 +555,23 @@
       <option name="project" value="LOCAL" />
       <updated>1763068439636</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Encapsulation: Exercise 3 password validation touch-ups">
+      <option name="closed" value="true" />
+      <created>1763069631830</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1763069631830</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Encapsulation: Exercise 4 initial_commit">
+      <option name="closed" value="true" />
+      <created>1763069734262</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1763069734262</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -582,6 +596,8 @@
     <MESSAGE value="Encapsulation: Exercise 1 initial commit" />
     <MESSAGE value="Encapsulation: Exercise 2 initial commit" />
     <MESSAGE value="Encapsulation: Exercise 3 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation: Exercise 3 initial commit" />
+    <MESSAGE value="Encapsulation: Exercise 3 password validation touch-ups" />
+    <MESSAGE value="Encapsulation: Exercise 4 initial_commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation: Exercise 4 initial_commit" />
   </component>
 </project>
