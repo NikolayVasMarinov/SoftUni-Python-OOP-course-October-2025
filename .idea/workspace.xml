@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Encapsulation exercise: Exercise 4 initial commit (files and product class)">
-      <change beforePath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encapsulation_exercise/zad4/project/beverage/beverage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad4/project/beverage/beverage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encapsulation_exercise/zad4/project/beverage/coffee.py" beforeDir="false" afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad4/project/beverage/coffee.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encapsulation_exercise/zad4/project/beverage/cold_beverage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad4/project/beverage/cold_beverage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encapsulation_exercise/zad4/project/beverage/hot_beverage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad4/project/beverage/hot_beverage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encapsulation_exercise/zad4/project/food/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad4/project/food/food.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Encapsulation exercise exercise 4: Added beverage classes">
+      <change beforePath="$PROJECT_DIR$/Encapsulation_exercise/zad4/project/food/dessert.py" beforeDir="false" afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad4/project/food/dessert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation_exercise/zad4/project/food/main_dish.py" beforeDir="false" afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad4/project/food/main_dish.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation_exercise/zad4/project/food/starter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad4/project/food/starter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,14 +104,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Exercise 5 initial commit">
-      <option name="closed" value="true" />
-      <created>1762122298325</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1762122298325</updated>
     </task>
     <task id="LOCAL-00006" summary="Exercise 1 initial commit">
       <option name="closed" value="true" />
@@ -500,11 +489,18 @@
       <option name="project" value="LOCAL" />
       <updated>1763232840461</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Encapsulation exercise exercise 4: Added beverage classes">
+      <option name="closed" value="true" />
+      <created>1763233275603</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1763233275603</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Removed test input" />
     <MESSAGE value="Updated exercise 2 to use class attributes for validation" />
     <MESSAGE value="Exercise 7 initial commit" />
     <MESSAGE value="Exercise 8 initial commit" />
@@ -529,6 +525,7 @@
     <MESSAGE value="Encapsulation exercise: Exercise 2 initial commit" />
     <MESSAGE value="Encapsulation exercise: Exercise 3 initial commit" />
     <MESSAGE value="Encapsulation exercise: Exercise 4 initial commit (files and product class)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation exercise: Exercise 4 initial commit (files and product class)" />
+    <MESSAGE value="Encapsulation exercise exercise 4: Added beverage classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation exercise exercise 4: Added beverage classes" />
   </component>
 </project>
