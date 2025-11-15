@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Encapsulation: Exercise 5 initial commit">
-      <change afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad1/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad1/project/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad1/project/caretaker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad1/project/cheetah.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad1/project/keeper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad1/project/lion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad1/project/tiger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad1/project/vet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad1/project/worker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad1/project/zoo.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Encapsulation exercise: Exercise 1 initial commit">
+      <change afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad2/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad2/project/dough.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad2/project/pizza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad2/project/topping.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -75,6 +69,7 @@
     "Python.section.executor": "Run",
     "Python.snake.executor": "Run",
     "Python.temp.executor": "Run",
+    "Python.topping.executor": "Run",
     "Python.trainer.executor": "Run",
     "Python.user.executor": "Run",
     "Python.zad1.executor": "Run",
@@ -112,14 +107,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Exercise 1 initial commit">
-      <option name="closed" value="true" />
-      <created>1762120535209</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1762120535209</updated>
     </task>
     <task id="LOCAL-00002" summary="Exercise 2 initial commit">
       <option name="closed" value="true" />
@@ -505,7 +492,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763070134695</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Encapsulation exercise: Exercise 1 initial commit">
+      <option name="closed" value="true" />
+      <created>1763229666801</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1763229666802</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -533,6 +528,7 @@
     <MESSAGE value="Encapsulation: Exercise 3 password validation touch-ups" />
     <MESSAGE value="Encapsulation: Exercise 4 initial_commit" />
     <MESSAGE value="Encapsulation: Exercise 5 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation: Exercise 5 initial commit" />
+    <MESSAGE value="Encapsulation exercise: Exercise 1 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation exercise: Exercise 1 initial commit" />
   </component>
 </project>
