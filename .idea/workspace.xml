@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Encapsulation exercise: Exercise 1 initial commit">
-      <change afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad2/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad2/project/dough.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad2/project/pizza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad2/project/topping.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Encapsulation exercise: Exercise 2 initial commit">
+      <change afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad3/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad3/project/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad3/project/team.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation_exercise/zad3/project/temp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -107,14 +107,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Exercise 2 initial commit">
-      <option name="closed" value="true" />
-      <created>1762121674496</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1762121674496</updated>
     </task>
     <task id="LOCAL-00003" summary="Exercise 3 initial commit">
       <option name="closed" value="true" />
@@ -500,11 +492,18 @@
       <option name="project" value="LOCAL" />
       <updated>1763229666802</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Encapsulation exercise: Exercise 2 initial commit">
+      <option name="closed" value="true" />
+      <created>1763231491906</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1763231491906</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="stop tracking .idea folder" />
     <MESSAGE value="Exercise 8 pokemon.py initial commit" />
     <MESSAGE value="Fixed release pokemon logic" />
     <MESSAGE value="Removed test input" />
@@ -529,6 +528,7 @@
     <MESSAGE value="Encapsulation: Exercise 4 initial_commit" />
     <MESSAGE value="Encapsulation: Exercise 5 initial commit" />
     <MESSAGE value="Encapsulation exercise: Exercise 1 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation exercise: Exercise 1 initial commit" />
+    <MESSAGE value="Encapsulation exercise: Exercise 2 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation exercise: Exercise 2 initial commit" />
   </component>
 </project>
