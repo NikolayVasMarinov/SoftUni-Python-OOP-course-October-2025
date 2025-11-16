@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Class and static methods: Exercise 1 initial commit">
-      <change afterPath="$PROJECT_DIR$/Class_and_static_methods/zad2.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Class and static methods: Exercise 2 initial commit">
+      <change afterPath="$PROJECT_DIR$/Class_and_static_methods/zad3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,14 +103,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00008" summary="stop tracking .idea folder">
-      <option name="closed" value="true" />
-      <created>1762200645588</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1762200645588</updated>
     </task>
     <task id="LOCAL-00009" summary="Exercise 3 initial commit">
       <option name="closed" value="true" />
@@ -496,11 +488,18 @@
       <option name="project" value="LOCAL" />
       <updated>1763287707656</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Class and static methods: Exercise 2 initial commit">
+      <option name="closed" value="true" />
+      <created>1763292809294</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1763292809294</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercise 8 initial commit" />
     <MESSAGE value="Improved changing username so that it updates the library records and specified that the Registration class methods are static" />
     <MESSAGE value="Exercise 2 initial commit" />
     <MESSAGE value="Exercise 3 initial commit" />
@@ -525,6 +524,7 @@
     <MESSAGE value="Encapsulation exercise exercise 4: Added beverage classes" />
     <MESSAGE value="Encapsulation exercise exercise 4: Added food classes" />
     <MESSAGE value="Class and static methods: Exercise 1 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class and static methods: Exercise 1 initial commit" />
+    <MESSAGE value="Class and static methods: Exercise 2 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class and static methods: Exercise 2 initial commit" />
   </component>
 </project>
