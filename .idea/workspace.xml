@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Class and static methods: Exercise 4 initial commit">
-      <change afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad1.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Class and static methods exercise: Exercise 1 initial commit">
+      <change afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad2/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad2/project/customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad2/project/dvd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad2/project/movie_world.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -56,12 +59,18 @@
     "Python tests.Python tests for temp.PokemonTest.test_releasing_pokemon.executor": "Run",
     "Python tests.Python tests for temp.PokemonTest.test_releasing_pokemon_that_is_not_caught.executor": "Run",
     "Python tests.Python tests for temp.PokemonTest.test_trainer_data.executor": "Run",
+    "Python tests.Python tests for temp.TestsMovieWorld.test_customer_init.executor": "Run",
+    "Python tests.Python tests for temp.TestsMovieWorld.test_dvd_repr.executor": "Run",
+    "Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_repr.executor": "Run",
+    "Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_return_dvd_success.executor": "Debug",
+    "Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_return_dvd_unsuccessful.executor": "Run",
     "Python tests.Python tests for temp.TestsPhotoAlbum.test_add_photo_with_free_spots.executor": "Run",
     "Python tests.Python tests for temp.TestsPhotoAlbum.test_add_photo_with_no_free_spots.executor": "Run",
     "Python tests.Python tests for temp.TestsPhotoAlbum.test_display_with_one_page.executor": "Run",
     "Python tests.Python tests for temp.TestsPhotoAlbum.test_display_with_three_pages.executor": "Run",
     "Python tests.Python tests for temp.TestsPhotoAlbum.test_from_photos_should_create_instace.executor": "Run",
     "Python tests.Python tests for temp.TestsPhotoAlbum.test_init_creates_all_attributes.executor": "Run",
+    "Python tests.Python tests in temp.py (1).executor": "Run",
     "Python tests.Python tests in temp.py.executor": "Run",
     "Python.album.executor": "Run",
     "Python.band.executor": "Run",
@@ -96,89 +105,89 @@
       <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse\First_steps_in_OOP_exercise\zad8\project" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Python tests for temp.TestsPhotoAlbum.test_add_photo_with_free_spots" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests in temp.py (1)">
+    <configuration name="Python tests for temp.TestsMovieWorld.test_dvd_repr" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Oct2025OOPCourse" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class_and_static_methods_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class_and_static_methods_exercise/zad2/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;temp.TestsPhotoAlbum.test_add_photo_with_free_spots&quot;" />
+      <option name="_new_target" value="&quot;temp.TestsMovieWorld.test_dvd_repr&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for temp.TestsPhotoAlbum.test_add_photo_with_no_free_spots" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for temp.TestsMovieWorld.test_movie_world_repr" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Oct2025OOPCourse" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class_and_static_methods_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class_and_static_methods_exercise/zad2/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;temp.TestsPhotoAlbum.test_add_photo_with_no_free_spots&quot;" />
+      <option name="_new_target" value="&quot;temp.TestsMovieWorld.test_movie_world_repr&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for temp.TestsPhotoAlbum.test_display_with_one_page" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for temp.TestsMovieWorld.test_movie_world_return_dvd_success" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Oct2025OOPCourse" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class_and_static_methods_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class_and_static_methods_exercise/zad2/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;temp.TestsPhotoAlbum.test_display_with_one_page&quot;" />
+      <option name="_new_target" value="&quot;temp.TestsMovieWorld.test_movie_world_return_dvd_success&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for temp.TestsPhotoAlbum.test_display_with_three_pages" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for temp.TestsMovieWorld.test_movie_world_return_dvd_unsuccessful" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Oct2025OOPCourse" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class_and_static_methods_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class_and_static_methods_exercise/zad2/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;temp.TestsPhotoAlbum.test_display_with_three_pages&quot;" />
+      <option name="_new_target" value="&quot;temp.TestsMovieWorld.test_movie_world_return_dvd_unsuccessful&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in temp.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in temp.py (1)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Oct2025OOPCourse" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class_and_static_methods_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class_and_static_methods_exercise/zad2/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Class_and_static_methods_exercise/temp.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Class_and_static_methods_exercise/zad2/project/temp.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in temp.py" />
-        <item itemvalue="Python tests.Python tests for temp.TestsPhotoAlbum.test_display_with_three_pages" />
-        <item itemvalue="Python tests.Python tests for temp.TestsPhotoAlbum.test_display_with_one_page" />
-        <item itemvalue="Python tests.Python tests for temp.TestsPhotoAlbum.test_add_photo_with_free_spots" />
-        <item itemvalue="Python tests.Python tests for temp.TestsPhotoAlbum.test_add_photo_with_no_free_spots" />
+        <item itemvalue="Python tests.Python tests in temp.py (1)" />
+        <item itemvalue="Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_return_dvd_success" />
+        <item itemvalue="Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_return_dvd_unsuccessful" />
+        <item itemvalue="Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_repr" />
+        <item itemvalue="Python tests.Python tests for temp.TestsMovieWorld.test_dvd_repr" />
       </list>
     </recent_temporary>
   </component>
@@ -197,14 +206,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Exercise 5 initial commit">
-      <option name="closed" value="true" />
-      <created>1762201523722</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1762201523722</updated>
     </task>
     <task id="LOCAL-00012" summary="Exercise 6 initial commit">
       <option name="closed" value="true" />
@@ -590,11 +591,18 @@
       <option name="project" value="LOCAL" />
       <updated>1763296769136</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Class and static methods exercise: Exercise 1 initial commit">
+      <option name="closed" value="true" />
+      <created>1763304455169</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1763304455169</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercise 3 initial commit" />
     <MESSAGE value="Exercise 4 initial commit" />
     <MESSAGE value="Exercise 5 initial commit" />
     <MESSAGE value="Exercise 6 initial commit" />
@@ -619,6 +627,7 @@
     <MESSAGE value="Class and static methods: Exercise 2 initial commit" />
     <MESSAGE value="Class and static methods: Exercise 3 initial commit" />
     <MESSAGE value="Class and static methods: Exercise 4 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class and static methods: Exercise 4 initial commit" />
+    <MESSAGE value="Class and static methods exercise: Exercise 1 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class and static methods exercise: Exercise 1 initial commit" />
   </component>
 </project>
