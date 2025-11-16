@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Class and static methods exercise: Exercise 1 initial commit">
-      <change afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad2/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad2/project/customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad2/project/dvd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad2/project/movie_world.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Class and static methods exercise: Exercise 2 initial commit">
+      <change afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad3/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad3/project/category.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad3/project/document.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad3/project/storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad3/project/temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad3/project/topic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -105,7 +107,7 @@
       <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse\First_steps_in_OOP_exercise\zad8\project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in temp.py (1)">
+  <component name="RunManager">
     <configuration name="Python tests for temp.TestsMovieWorld.test_dvd_repr" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Oct2025OOPCourse" />
       <option name="ENV_FILES" value="" />
@@ -166,7 +168,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in temp.py (1)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in C:/Users/Niki/PycharmProjects/Oct2025OOPCourse/Class_and_static_methods_exercise/zad2/project/temp.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Oct2025OOPCourse" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,7 +185,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in temp.py (1)" />
+        <item itemvalue="Python tests.Python tests in C:/Users/Niki/PycharmProjects/Oct2025OOPCourse/Class_and_static_methods_exercise/zad2/project/temp.py" />
         <item itemvalue="Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_return_dvd_success" />
         <item itemvalue="Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_return_dvd_unsuccessful" />
         <item itemvalue="Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_repr" />
@@ -206,14 +208,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Exercise 6 initial commit">
-      <option name="closed" value="true" />
-      <created>1762201870120</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1762201870120</updated>
     </task>
     <task id="LOCAL-00013" summary="Exercise 7 initial commit">
       <option name="closed" value="true" />
@@ -599,11 +593,18 @@
       <option name="project" value="LOCAL" />
       <updated>1763304455169</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Class and static methods exercise: Exercise 2 initial commit">
+      <option name="closed" value="true" />
+      <created>1763306491349</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1763306491352</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercise 4 initial commit" />
     <MESSAGE value="Exercise 5 initial commit" />
     <MESSAGE value="Exercise 6 initial commit" />
     <MESSAGE value="Exercise 1 initial commit" />
@@ -628,6 +629,7 @@
     <MESSAGE value="Class and static methods: Exercise 3 initial commit" />
     <MESSAGE value="Class and static methods: Exercise 4 initial commit" />
     <MESSAGE value="Class and static methods exercise: Exercise 1 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class and static methods exercise: Exercise 1 initial commit" />
+    <MESSAGE value="Class and static methods exercise: Exercise 2 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class and static methods exercise: Exercise 2 initial commit" />
   </component>
 </project>
