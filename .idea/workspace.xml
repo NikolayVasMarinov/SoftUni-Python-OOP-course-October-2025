@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Class and static methods exercise: Exercise 3 initial commit">
-      <change afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad4/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad4/project/customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad4/project/equipment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad4/project/exercise_plan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad4/project/gym.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad4/project/subscription.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad4/project/trainer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Class and static methods exercise: Exercise 4 initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad3/project/storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad3/project/storage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad3/project/topic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class_and_static_methods_exercise/zad3/project/topic.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,146 +45,62 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for temp.PlayerTest.test_assign_working.executor": "Run",
-    "Python tests.Python tests for temp.PlayerTest.test_assigning_player_in_the_same_guild.executor": "Run",
-    "Python tests.Python tests for temp.PokemonTest.test_adding_already_added_pokemon.executor": "Run",
-    "Python tests.Python tests for temp.PokemonTest.test_adding_second_pokemon.executor": "Run",
-    "Python tests.Python tests for temp.PokemonTest.test_releasing_pokemon.executor": "Run",
-    "Python tests.Python tests for temp.PokemonTest.test_releasing_pokemon_that_is_not_caught.executor": "Run",
-    "Python tests.Python tests for temp.PokemonTest.test_trainer_data.executor": "Run",
-    "Python tests.Python tests for temp.TestsMovieWorld.test_customer_init.executor": "Run",
-    "Python tests.Python tests for temp.TestsMovieWorld.test_dvd_repr.executor": "Run",
-    "Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_repr.executor": "Run",
-    "Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_return_dvd_success.executor": "Debug",
-    "Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_return_dvd_unsuccessful.executor": "Run",
-    "Python tests.Python tests for temp.TestsPhotoAlbum.test_add_photo_with_free_spots.executor": "Run",
-    "Python tests.Python tests for temp.TestsPhotoAlbum.test_add_photo_with_no_free_spots.executor": "Run",
-    "Python tests.Python tests for temp.TestsPhotoAlbum.test_display_with_one_page.executor": "Run",
-    "Python tests.Python tests for temp.TestsPhotoAlbum.test_display_with_three_pages.executor": "Run",
-    "Python tests.Python tests for temp.TestsPhotoAlbum.test_from_photos_should_create_instace.executor": "Run",
-    "Python tests.Python tests for temp.TestsPhotoAlbum.test_init_creates_all_attributes.executor": "Run",
-    "Python tests.Python tests in temp.py (1).executor": "Run",
-    "Python tests.Python tests in temp.py.executor": "Run",
-    "Python.album.executor": "Run",
-    "Python.band.executor": "Run",
-    "Python.child.executor": "Run",
-    "Python.guild.executor": "Run",
-    "Python.hotel.executor": "Run",
-    "Python.library.executor": "Run",
-    "Python.registration.executor": "Run",
-    "Python.section.executor": "Run",
-    "Python.snake.executor": "Run",
-    "Python.temp.executor": "Run",
-    "Python.topping.executor": "Run",
-    "Python.trainer.executor": "Run",
-    "Python.user.executor": "Run",
-    "Python.zad1.executor": "Run",
-    "Python.zad2.executor": "Run",
-    "Python.zad3.executor": "Run",
-    "Python.zad4.executor": "Run",
-    "Python.zad5.executor": "Run",
-    "Python.zad6.executor": "Run",
-    "Python.zad7.executor": "Run",
-    "Python.zoo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for temp.PlayerTest.test_assign_working.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.PlayerTest.test_assigning_player_in_the_same_guild.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.PokemonTest.test_adding_already_added_pokemon.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.PokemonTest.test_adding_second_pokemon.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.PokemonTest.test_releasing_pokemon.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.PokemonTest.test_releasing_pokemon_that_is_not_caught.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.PokemonTest.test_trainer_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.TestsMovieWorld.test_customer_init.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.TestsMovieWorld.test_dvd_repr.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_repr.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_return_dvd_success.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_return_dvd_unsuccessful.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.TestsPhotoAlbum.test_add_photo_with_free_spots.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.TestsPhotoAlbum.test_add_photo_with_no_free_spots.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.TestsPhotoAlbum.test_display_with_one_page.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.TestsPhotoAlbum.test_display_with_three_pages.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.TestsPhotoAlbum.test_from_photos_should_create_instace.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.TestsPhotoAlbum.test_init_creates_all_attributes.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in temp.py (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in temp.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.album.executor&quot;: &quot;Run&quot;,
+    &quot;Python.band.executor&quot;: &quot;Run&quot;,
+    &quot;Python.child.executor&quot;: &quot;Run&quot;,
+    &quot;Python.guild.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hotel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.library.executor&quot;: &quot;Run&quot;,
+    &quot;Python.registration.executor&quot;: &quot;Run&quot;,
+    &quot;Python.section.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake.executor&quot;: &quot;Run&quot;,
+    &quot;Python.temo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.temp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.topping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.trainer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.user.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zoo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse\Polymorphism_and_abstraction" />
       <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse" />
       <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse\First_steps_in_OOP_exercise\zad8" />
       <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse\First_steps_in_OOP_exercise" />
       <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse\First_steps_in_OOP_exercise\zad8\project" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Python tests for temp.TestsMovieWorld.test_dvd_repr" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Oct2025OOPCourse" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class_and_static_methods_exercise/zad2/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;temp.TestsMovieWorld.test_dvd_repr&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for temp.TestsMovieWorld.test_movie_world_repr" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Oct2025OOPCourse" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class_and_static_methods_exercise/zad2/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;temp.TestsMovieWorld.test_movie_world_repr&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for temp.TestsMovieWorld.test_movie_world_return_dvd_success" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Oct2025OOPCourse" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class_and_static_methods_exercise/zad2/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;temp.TestsMovieWorld.test_movie_world_return_dvd_success&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for temp.TestsMovieWorld.test_movie_world_return_dvd_unsuccessful" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Oct2025OOPCourse" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class_and_static_methods_exercise/zad2/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;temp.TestsMovieWorld.test_movie_world_return_dvd_unsuccessful&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in C:/Users/Niki/PycharmProjects/Oct2025OOPCourse/Class_and_static_methods_exercise/zad2/project/temp.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Oct2025OOPCourse" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class_and_static_methods_exercise/zad2/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Class_and_static_methods_exercise/zad2/project/temp.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python tests.Python tests in C:/Users/Niki/PycharmProjects/Oct2025OOPCourse/Class_and_static_methods_exercise/zad2/project/temp.py" />
-        <item itemvalue="Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_return_dvd_success" />
-        <item itemvalue="Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_return_dvd_unsuccessful" />
-        <item itemvalue="Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_repr" />
-        <item itemvalue="Python tests.Python tests for temp.TestsMovieWorld.test_dvd_repr" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -211,14 +117,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Exercise 8 pokemon.py initial commit">
-      <option name="closed" value="true" />
-      <created>1762288477655</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1762288477655</updated>
     </task>
     <task id="LOCAL-00015" summary="Exercise 8 initial commit">
       <option name="closed" value="true" />
@@ -604,11 +502,18 @@
       <option name="project" value="LOCAL" />
       <updated>1763307878592</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Class and static methods exercise: Exercise 4 initial commit">
+      <option name="closed" value="true" />
+      <created>1763310042347</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1763310042347</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercise 6 initial commit" />
     <MESSAGE value="Exercise 1 initial commit" />
     <MESSAGE value="Inheritance exercise: Exercise 2 initial commit" />
     <MESSAGE value="Inheritance exercise: Exercise 3 initial commit" />
@@ -633,6 +538,7 @@
     <MESSAGE value="Class and static methods exercise: Exercise 1 initial commit" />
     <MESSAGE value="Class and static methods exercise: Exercise 2 initial commit" />
     <MESSAGE value="Class and static methods exercise: Exercise 3 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class and static methods exercise: Exercise 3 initial commit" />
+    <MESSAGE value="Class and static methods exercise: Exercise 4 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class and static methods exercise: Exercise 4 initial commit" />
   </component>
 </project>
