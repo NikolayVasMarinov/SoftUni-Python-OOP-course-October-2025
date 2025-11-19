@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Polymorphism and abstraction: Exercise 1 initial commit">
-      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction/zad2.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Polymorphism and abstraction: Exercise 2 initial commit">
+      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction/zad3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,14 +119,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Fixed release pokemon logic">
-      <option name="closed" value="true" />
-      <created>1762371802105</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1762371802105</updated>
     </task>
     <task id="LOCAL-00017" summary="Removed test input">
       <option name="closed" value="true" />
@@ -512,11 +504,18 @@
       <option name="project" value="LOCAL" />
       <updated>1763582080540</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Polymorphism and abstraction: Exercise 2 initial commit">
+      <option name="closed" value="true" />
+      <created>1763583237330</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1763583237330</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Inheritance exercise: Exercise 2 initial commit" />
     <MESSAGE value="Inheritance exercise: Exercise 3 initial commit" />
     <MESSAGE value="Inheritance exercise: Exercise 4 initial commit" />
     <MESSAGE value="Inheritance exercise: Exercise 5 initial commit" />
@@ -541,6 +540,7 @@
     <MESSAGE value="Class and static methods exercise: Exercise 3 initial commit" />
     <MESSAGE value="Class and static methods exercise: Exercise 4 initial commit" />
     <MESSAGE value="Polymorphism and abstraction: Exercise 1 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism and abstraction: Exercise 1 initial commit" />
+    <MESSAGE value="Polymorphism and abstraction: Exercise 2 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism and abstraction: Exercise 2 initial commit" />
   </component>
 </project>
