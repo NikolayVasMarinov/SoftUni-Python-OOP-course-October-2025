@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Polymorphism and abstraction exercise: Exercise 2 initial commit" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Polymorphism and abstraction exercise: Fixed exercise 1 logic">
+      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,14 +122,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Exercise 4 initial commit">
-      <option name="closed" value="true" />
-      <created>1762615336700</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1762615336700</updated>
     </task>
     <task id="LOCAL-00022" summary="Exercise 5 initial commit">
       <option name="closed" value="true" />
@@ -512,11 +507,18 @@
       <option name="project" value="LOCAL" />
       <updated>1763665958671</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="Polymorphism and abstraction exercise: Fixed exercise 1 logic">
+      <option name="closed" value="true" />
+      <created>1763666262319</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1763666262319</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Encapsulation: Exercise 2 initial commit" />
     <MESSAGE value="Encapsulation: Exercise 3 initial commit" />
     <MESSAGE value="Encapsulation: Exercise 3 password validation touch-ups" />
     <MESSAGE value="Encapsulation: Exercise 4 initial_commit" />
@@ -541,6 +543,7 @@
     <MESSAGE value="Polymorphism and abstraction: Exercise 4 initial commit" />
     <MESSAGE value="Polymorphism and abstraction exercise: Exercise 1 initial commit" />
     <MESSAGE value="Polymorphism and abstraction exercise: Exercise 2 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism and abstraction exercise: Exercise 2 initial commit" />
+    <MESSAGE value="Polymorphism and abstraction exercise: Fixed exercise 1 logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism and abstraction exercise: Fixed exercise 1 logic" />
   </component>
 </project>
