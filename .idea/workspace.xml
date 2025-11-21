@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Polymorphism and abstraction exercise: Exercise 4 initial commit">
-      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad5/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad5/project/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad5/project/cat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad5/project/dog.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Polymorphism and abstraction exercise: Exercise 5 initial commit">
+      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad6/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad6/project/f1_season_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad6/project/formula_teams/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad6/project/formula_teams/formula_team.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad6/project/formula_teams/mercedes_team.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad6/project/formula_teams/red_bull_team.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,14 +129,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Exercise 2 initial commit">
-      <option name="closed" value="true" />
-      <created>1762618893608</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1762618893608</updated>
     </task>
     <task id="LOCAL-00025" summary="Updated exercise 2 to use class attributes for validation">
       <option name="closed" value="true" />
@@ -519,11 +514,18 @@
       <option name="project" value="LOCAL" />
       <updated>1763755074178</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Polymorphism and abstraction exercise: Exercise 5 initial commit">
+      <option name="closed" value="true" />
+      <created>1763755580536</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1763755580536</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Encapsulation: Exercise 4 initial_commit" />
     <MESSAGE value="Encapsulation: Exercise 5 initial commit" />
     <MESSAGE value="Encapsulation exercise: Exercise 1 initial commit" />
     <MESSAGE value="Encapsulation exercise: Exercise 2 initial commit" />
@@ -548,6 +550,7 @@
     <MESSAGE value="Polymorphism and abstraction exercise: Fixed exercise 1 logic" />
     <MESSAGE value="Polymorphism and abstraction exercise: Fixed exercise 3 logic" />
     <MESSAGE value="Polymorphism and abstraction exercise: Exercise 4 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism and abstraction exercise: Exercise 4 initial commit" />
+    <MESSAGE value="Polymorphism and abstraction exercise: Exercise 5 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism and abstraction exercise: Exercise 5 initial commit" />
   </component>
 </project>
