@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Polymorphism and abstraction exercise: Fixed exercise 1 logic">
-      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad3.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Polymorphism and abstraction exercise: Fixed exercise 3 logic">
+      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad4/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad4/project/animals/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad4/project/animals/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad4/project/animals/birds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad4/project/animals/mammals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad4/project/food.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +79,7 @@
     "Python tests.Python tests in temp.py.executor": "Run",
     "Python.album.executor": "Run",
     "Python.band.executor": "Run",
+    "Python.birds.executor": "Run",
     "Python.child.executor": "Run",
     "Python.guild.executor": "Run",
     "Python.hotel.executor": "Run",
@@ -122,14 +129,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Exercise 5 initial commit">
-      <option name="closed" value="true" />
-      <created>1762615613354</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1762615613354</updated>
     </task>
     <task id="LOCAL-00023" summary="Exercise 1 initial commit">
       <option name="closed" value="true" />
@@ -515,11 +514,18 @@
       <option name="project" value="LOCAL" />
       <updated>1763666262319</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Polymorphism and abstraction exercise: Fixed exercise 3 logic">
+      <option name="closed" value="true" />
+      <created>1763668395803</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1763668395803</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Encapsulation: Exercise 3 initial commit" />
     <MESSAGE value="Encapsulation: Exercise 3 password validation touch-ups" />
     <MESSAGE value="Encapsulation: Exercise 4 initial_commit" />
     <MESSAGE value="Encapsulation: Exercise 5 initial commit" />
@@ -544,6 +550,7 @@
     <MESSAGE value="Polymorphism and abstraction exercise: Exercise 1 initial commit" />
     <MESSAGE value="Polymorphism and abstraction exercise: Exercise 2 initial commit" />
     <MESSAGE value="Polymorphism and abstraction exercise: Fixed exercise 1 logic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism and abstraction exercise: Fixed exercise 1 logic" />
+    <MESSAGE value="Polymorphism and abstraction exercise: Fixed exercise 3 logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism and abstraction exercise: Fixed exercise 3 logic" />
   </component>
 </project>
