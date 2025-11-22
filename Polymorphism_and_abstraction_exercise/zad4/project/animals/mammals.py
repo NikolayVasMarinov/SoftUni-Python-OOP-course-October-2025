@@ -1,26 +1,6 @@
-from abc import ABC, abstractmethod
-
 from project.food import Food, Vegetable, Fruit, Meat
-from project.animals.animal import Animal
+from project.animals.animal import Mammal
 
-
-class Mammal(Animal, ABC):
-    def __init__(self, name: str, weight: float, living_region: str, food_eaten: int = 0):
-        super().__init__(name, weight, food_eaten)
-        self.living_region = living_region
-
-    @staticmethod
-    @abstractmethod
-    def make_sound() -> str:
-        pass
-
-    @abstractmethod
-    def feed(self, food: Food) -> str | None:
-        pass
-
-    def __repr__(self):
-        return (f"{self.__class__.__name__} [{self.name}, {self.weight}, "
-                f"{self.living_region}, {self.food_eaten}]")
 
 class Mouse(Mammal):
     WEIGHT_INCREASE_PER_PIECE_OF_FOOD = 0.10

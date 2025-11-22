@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Polymorphism and abstraction exercise: Exercise 5 initial commit">
-      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad6/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad6/project/f1_season_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad6/project/formula_teams/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad6/project/formula_teams/formula_team.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad6/project/formula_teams/mercedes_team.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad6/project/formula_teams/red_bull_team.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Polymorphism and abstraction exercise: Exercise 6 initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad4/project/animals/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad4/project/animals/animal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad4/project/animals/birds.py" beforeDir="false" afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad4/project/animals/birds.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad4/project/animals/mammals.py" beforeDir="false" afterPath="$PROJECT_DIR$/Polymorphism_and_abstraction_exercise/zad4/project/animals/mammals.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,56 +52,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for temp.PlayerTest.test_assign_working.executor": "Run",
-    "Python tests.Python tests for temp.PlayerTest.test_assigning_player_in_the_same_guild.executor": "Run",
-    "Python tests.Python tests for temp.PokemonTest.test_adding_already_added_pokemon.executor": "Run",
-    "Python tests.Python tests for temp.PokemonTest.test_adding_second_pokemon.executor": "Run",
-    "Python tests.Python tests for temp.PokemonTest.test_releasing_pokemon.executor": "Run",
-    "Python tests.Python tests for temp.PokemonTest.test_releasing_pokemon_that_is_not_caught.executor": "Run",
-    "Python tests.Python tests for temp.PokemonTest.test_trainer_data.executor": "Run",
-    "Python tests.Python tests for temp.TestsMovieWorld.test_customer_init.executor": "Run",
-    "Python tests.Python tests for temp.TestsMovieWorld.test_dvd_repr.executor": "Run",
-    "Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_repr.executor": "Run",
-    "Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_return_dvd_success.executor": "Debug",
-    "Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_return_dvd_unsuccessful.executor": "Run",
-    "Python tests.Python tests for temp.TestsPhotoAlbum.test_add_photo_with_free_spots.executor": "Run",
-    "Python tests.Python tests for temp.TestsPhotoAlbum.test_add_photo_with_no_free_spots.executor": "Run",
-    "Python tests.Python tests for temp.TestsPhotoAlbum.test_display_with_one_page.executor": "Run",
-    "Python tests.Python tests for temp.TestsPhotoAlbum.test_display_with_three_pages.executor": "Run",
-    "Python tests.Python tests for temp.TestsPhotoAlbum.test_from_photos_should_create_instace.executor": "Run",
-    "Python tests.Python tests for temp.TestsPhotoAlbum.test_init_creates_all_attributes.executor": "Run",
-    "Python tests.Python tests in temp.py (1).executor": "Run",
-    "Python tests.Python tests in temp.py.executor": "Run",
-    "Python.album.executor": "Run",
-    "Python.band.executor": "Run",
-    "Python.birds.executor": "Run",
-    "Python.child.executor": "Run",
-    "Python.guild.executor": "Run",
-    "Python.hotel.executor": "Run",
-    "Python.library.executor": "Run",
-    "Python.registration.executor": "Run",
-    "Python.robots.executor": "Run",
-    "Python.section.executor": "Run",
-    "Python.snake.executor": "Run",
-    "Python.temo.executor": "Run",
-    "Python.temp.executor": "Run",
-    "Python.topping.executor": "Run",
-    "Python.trainer.executor": "Run",
-    "Python.user.executor": "Run",
-    "Python.zad1.executor": "Run",
-    "Python.zad2.executor": "Run",
-    "Python.zad3.executor": "Run",
-    "Python.zad4.executor": "Run",
-    "Python.zad5.executor": "Run",
-    "Python.zad6.executor": "Run",
-    "Python.zad7.executor": "Run",
-    "Python.zoo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for temp.PlayerTest.test_assign_working.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.PlayerTest.test_assigning_player_in_the_same_guild.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.PokemonTest.test_adding_already_added_pokemon.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.PokemonTest.test_adding_second_pokemon.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.PokemonTest.test_releasing_pokemon.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.PokemonTest.test_releasing_pokemon_that_is_not_caught.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.PokemonTest.test_trainer_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.TestsMovieWorld.test_customer_init.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.TestsMovieWorld.test_dvd_repr.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_repr.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_return_dvd_success.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.Python tests for temp.TestsMovieWorld.test_movie_world_return_dvd_unsuccessful.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.TestsPhotoAlbum.test_add_photo_with_free_spots.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.TestsPhotoAlbum.test_add_photo_with_no_free_spots.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.TestsPhotoAlbum.test_display_with_one_page.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.TestsPhotoAlbum.test_display_with_three_pages.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.TestsPhotoAlbum.test_from_photos_should_create_instace.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for temp.TestsPhotoAlbum.test_init_creates_all_attributes.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in temp.py (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in temp.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.album.executor&quot;: &quot;Run&quot;,
+    &quot;Python.band.executor&quot;: &quot;Run&quot;,
+    &quot;Python.birds.executor&quot;: &quot;Run&quot;,
+    &quot;Python.child.executor&quot;: &quot;Run&quot;,
+    &quot;Python.guild.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hotel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.library.executor&quot;: &quot;Run&quot;,
+    &quot;Python.registration.executor&quot;: &quot;Run&quot;,
+    &quot;Python.robots.executor&quot;: &quot;Run&quot;,
+    &quot;Python.section.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake.executor&quot;: &quot;Run&quot;,
+    &quot;Python.temo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.temp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.topping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.trainer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.user.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zoo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse\Polymorphism_and_abstraction" />
@@ -129,14 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Updated exercise 2 to use class attributes for validation">
-      <option name="closed" value="true" />
-      <created>1762619046601</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1762619046601</updated>
     </task>
     <task id="LOCAL-00026" summary="Exercise 3 initial commit">
       <option name="closed" value="true" />
@@ -522,11 +511,18 @@
       <option name="project" value="LOCAL" />
       <updated>1763755580536</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Polymorphism and abstraction exercise: Exercise 6 initial commit">
+      <option name="closed" value="true" />
+      <created>1763758917814</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1763758917814</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Encapsulation: Exercise 5 initial commit" />
     <MESSAGE value="Encapsulation exercise: Exercise 1 initial commit" />
     <MESSAGE value="Encapsulation exercise: Exercise 2 initial commit" />
     <MESSAGE value="Encapsulation exercise: Exercise 3 initial commit" />
@@ -551,6 +547,7 @@
     <MESSAGE value="Polymorphism and abstraction exercise: Fixed exercise 3 logic" />
     <MESSAGE value="Polymorphism and abstraction exercise: Exercise 4 initial commit" />
     <MESSAGE value="Polymorphism and abstraction exercise: Exercise 5 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism and abstraction exercise: Exercise 5 initial commit" />
+    <MESSAGE value="Polymorphism and abstraction exercise: Exercise 6 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism and abstraction exercise: Exercise 6 initial commit" />
   </component>
 </project>
