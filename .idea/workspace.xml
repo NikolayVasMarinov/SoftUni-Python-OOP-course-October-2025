@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="SOLID: Exercise 4 initial commit">
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="SOLID: Exercise 5 initial commit">
+      <change afterPath="$PROJECT_DIR$/SOLID_exercise/01_workers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID_exercise/02_workers_updated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID_exercise/03_prisoner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID_exercise/04_shapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID_exercise/05_emails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID_exercise/06_media_management_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID_exercise/07_notification_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID_exercise/08_payment_system.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +78,7 @@
     "Python tests.Python tests for temp.TestsPhotoAlbum.test_init_creates_all_attributes.executor": "Run",
     "Python tests.Python tests in temp.py (1).executor": "Run",
     "Python tests.Python tests in temp.py.executor": "Run",
+    "Python.01_workers.executor": "Run",
     "Python.album.executor": "Run",
     "Python.animal.executor": "Run",
     "Python.band.executor": "Run",
@@ -101,11 +110,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse\SOLID_exercise" />
       <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse\SOLID" />
       <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse\Polymorphism_and_abstraction" />
       <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse" />
       <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse\First_steps_in_OOP_exercise\zad8" />
-      <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse\First_steps_in_OOP_exercise" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -123,14 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Exercise 1 initial commit">
-      <option name="closed" value="true" />
-      <created>1762693172632</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1762693172632</updated>
     </task>
     <task id="LOCAL-00034" summary="Exercise 2 initial commit">
       <option name="closed" value="true" />
@@ -516,11 +517,18 @@
       <option name="project" value="LOCAL" />
       <updated>1763905048878</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="SOLID: Exercise 5 initial commit">
+      <option name="closed" value="true" />
+      <created>1763905531632</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1763905531632</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Class and static methods: Exercise 2 initial commit" />
     <MESSAGE value="Class and static methods: Exercise 3 initial commit" />
     <MESSAGE value="Class and static methods: Exercise 4 initial commit" />
     <MESSAGE value="Class and static methods exercise: Exercise 1 initial commit" />
@@ -545,6 +553,7 @@
     <MESSAGE value="SOLID: Exercise 2 initial commit" />
     <MESSAGE value="SOLID: Exercise 3 initial commit" />
     <MESSAGE value="SOLID: Exercise 4 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="SOLID: Exercise 4 initial commit" />
+    <MESSAGE value="SOLID: Exercise 5 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="SOLID: Exercise 5 initial commit" />
   </component>
 </project>
