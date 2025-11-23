@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="SOLID exercise: Exercise 5 initial commit">
-      <change afterPath="$PROJECT_DIR$/SOLID_exercise/06_media_management_system.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="SOLID exercise: Exercise 6 initial commit">
       <change afterPath="$PROJECT_DIR$/SOLID_exercise/07_notification_system.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SOLID_exercise/08_payment_system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +77,8 @@
     "Python.03_prisoner.executor": "Run",
     "Python.04_shapes.executor": "Run",
     "Python.05_emails.executor": "Run",
+    "Python.06_media_management_system.executor": "Run",
+    "Python.07_notification_system.executor": "Run",
     "Python.album.executor": "Run",
     "Python.animal.executor": "Run",
     "Python.band.executor": "Run",
@@ -130,14 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Exercise 1 initial commit">
-      <option name="closed" value="true" />
-      <created>1762772684078</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1762772684078</updated>
     </task>
     <task id="LOCAL-00040" summary="Inheritance exercise: Exercise 2 initial commit">
       <option name="closed" value="true" />
@@ -523,11 +517,18 @@
       <option name="project" value="LOCAL" />
       <updated>1763920304898</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="SOLID exercise: Exercise 6 initial commit">
+      <option name="closed" value="true" />
+      <created>1763920479977</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1763920479978</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Class and static methods exercise: Exercise 3 initial commit" />
     <MESSAGE value="Class and static methods exercise: Exercise 4 initial commit" />
     <MESSAGE value="Polymorphism and abstraction: Exercise 1 initial commit" />
     <MESSAGE value="Polymorphism and abstraction: Exercise 2 initial commit" />
@@ -552,6 +553,7 @@
     <MESSAGE value="SOLID exercise: Exercise 3 initial commit" />
     <MESSAGE value="SOLID exercise: Exercise 4 initial commit" />
     <MESSAGE value="SOLID exercise: Exercise 5 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="SOLID exercise: Exercise 5 initial commit" />
+    <MESSAGE value="SOLID exercise: Exercise 6 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="SOLID exercise: Exercise 6 initial commit" />
   </component>
 </project>
