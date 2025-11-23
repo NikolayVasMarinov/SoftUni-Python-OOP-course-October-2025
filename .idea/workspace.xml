@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="SOLID exercise: Exercise 3 initial commit">
-      <change afterPath="$PROJECT_DIR$/SOLID_exercise/04_shapes.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="SOLID exercise: Exercise 4 initial commit">
       <change afterPath="$PROJECT_DIR$/SOLID_exercise/05_emails.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SOLID_exercise/06_media_management_system.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SOLID_exercise/07_notification_system.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SOLID_exercise/08_payment_system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,14 +131,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Exercise 5 initial commit">
-      <option name="closed" value="true" />
-      <created>1762720154033</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1762720154033</updated>
     </task>
     <task id="LOCAL-00038" summary="Exercise 6 initial commit">
       <option name="closed" value="true" />
@@ -524,11 +516,18 @@
       <option name="project" value="LOCAL" />
       <updated>1763917474400</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="SOLID exercise: Exercise 4 initial commit">
+      <option name="closed" value="true" />
+      <created>1763918468001</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1763918468001</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Class and static methods exercise: Exercise 1 initial commit" />
     <MESSAGE value="Class and static methods exercise: Exercise 2 initial commit" />
     <MESSAGE value="Class and static methods exercise: Exercise 3 initial commit" />
     <MESSAGE value="Class and static methods exercise: Exercise 4 initial commit" />
@@ -553,6 +552,7 @@
     <MESSAGE value="SOLID: Exercise 5 initial commit" />
     <MESSAGE value="SOLID exercise: Exercise 1 initial commit" />
     <MESSAGE value="SOLID exercise: Exercise 3 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="SOLID exercise: Exercise 3 initial commit" />
+    <MESSAGE value="SOLID exercise: Exercise 4 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="SOLID exercise: Exercise 4 initial commit" />
   </component>
 </project>
