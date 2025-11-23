@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="SOLID exercise: Exercise 7 initial commit">
-      <change afterPath="$PROJECT_DIR$/SOLID_exercise/08_payment_system.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="SOLID exercise: Exercise 8 initial commit">
+      <change afterPath="$PROJECT_DIR$/Iterators_and_generators/zad1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,14 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Inheritance exercise: Exercise 3 initial commit">
-      <option name="closed" value="true" />
-      <created>1762773687845</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1762773687845</updated>
     </task>
     <task id="LOCAL-00042" summary="Inheritance exercise: Exercise 4 initial commit">
       <option name="closed" value="true" />
@@ -525,11 +517,18 @@
       <option name="project" value="LOCAL" />
       <updated>1763921329699</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="SOLID exercise: Exercise 8 initial commit">
+      <option name="closed" value="true" />
+      <created>1763923927540</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1763923927540</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Polymorphism and abstraction: Exercise 1 initial commit" />
     <MESSAGE value="Polymorphism and abstraction: Exercise 2 initial commit" />
     <MESSAGE value="Polymorphism and abstraction: Exercise 3 initial commit" />
     <MESSAGE value="Polymorphism and abstraction: Exercise 4 initial commit" />
@@ -554,6 +553,7 @@
     <MESSAGE value="SOLID exercise: Exercise 5 initial commit" />
     <MESSAGE value="SOLID exercise: Exercise 6 initial commit" />
     <MESSAGE value="SOLID exercise: Exercise 7 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="SOLID exercise: Exercise 7 initial commit" />
+    <MESSAGE value="SOLID exercise: Exercise 8 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="SOLID exercise: Exercise 8 initial commit" />
   </component>
 </project>
