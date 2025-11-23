@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="SOLID: Exercise 1 initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="SOLID: Exercise 2 initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,14 +121,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Exercise 7 initial commit">
-      <option name="closed" value="true" />
-      <created>1762625857491</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1762625857491</updated>
     </task>
     <task id="LOCAL-00031" summary="Exercise 8 initial commit">
       <option name="closed" value="true" />
@@ -516,11 +506,18 @@
       <option name="project" value="LOCAL" />
       <updated>1763903073553</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="SOLID: Exercise 2 initial commit">
+      <option name="closed" value="true" />
+      <created>1763903710971</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1763903710971</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Encapsulation exercise exercise 4: Added beverage classes" />
     <MESSAGE value="Encapsulation exercise exercise 4: Added food classes" />
     <MESSAGE value="Class and static methods: Exercise 1 initial commit" />
     <MESSAGE value="Class and static methods: Exercise 2 initial commit" />
@@ -545,6 +542,7 @@
     <MESSAGE value="Polymorphism and abstraction exercise: Removed team_name setter and fixed small mistake in if statement for checking if teams are registered in exercise 6" />
     <MESSAGE value="Polymorphism and abstraction exercise: Removed unused parts across exercises" />
     <MESSAGE value="SOLID: Exercise 1 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="SOLID: Exercise 1 initial commit" />
+    <MESSAGE value="SOLID: Exercise 2 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="SOLID: Exercise 2 initial commit" />
   </component>
 </project>
