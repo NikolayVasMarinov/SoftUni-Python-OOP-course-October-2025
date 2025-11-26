@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Iterators and generators: Exercise 4 initial commit">
-      <change afterPath="$PROJECT_DIR$/Iterators_and_generators/zad5.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Iterators and generators: Exercise 5 initial commit">
+      <change afterPath="$PROJECT_DIR$/Iterators_and_generators/zad6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,14 +131,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Encapsulation: Exercise 3 password validation touch-ups">
-      <option name="closed" value="true" />
-      <created>1763069631830</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1763069631830</updated>
     </task>
     <task id="LOCAL-00048" summary="Encapsulation: Exercise 4 initial_commit">
       <option name="closed" value="true" />
@@ -524,11 +516,18 @@
       <option name="project" value="LOCAL" />
       <updated>1764193045766</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Iterators and generators: Exercise 5 initial commit">
+      <option name="closed" value="true" />
+      <created>1764193356249</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1764193356249</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Polymorphism and abstraction exercise: Fixed exercise 1 logic" />
     <MESSAGE value="Polymorphism and abstraction exercise: Fixed exercise 3 logic" />
     <MESSAGE value="Polymorphism and abstraction exercise: Exercise 4 initial commit" />
     <MESSAGE value="Polymorphism and abstraction exercise: Exercise 5 initial commit" />
@@ -553,6 +552,7 @@
     <MESSAGE value="Iterators and generators: Exercise 2 using generator" />
     <MESSAGE value="Iterators and generators: Exercise 3 initial commit" />
     <MESSAGE value="Iterators and generators: Exercise 4 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iterators and generators: Exercise 4 initial commit" />
+    <MESSAGE value="Iterators and generators: Exercise 5 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iterators and generators: Exercise 5 initial commit" />
   </component>
 </project>
