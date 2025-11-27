@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Iterators and generators exercise: Exercise 7 initial commit">
-      <change afterPath="$PROJECT_DIR$/Iterators_and_generators_exercise/zad8.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Iterators and generators exercise: Exercise 8 initial commit">
+      <change afterPath="$PROJECT_DIR$/Iterators_and_generators_exercise/zad9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +104,7 @@
     "Python.zad6.executor": "Run",
     "Python.zad7.executor": "Run",
     "Python.zad8.executor": "Run",
+    "Python.zad9.executor": "Run",
     "Python.zoo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
@@ -132,14 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00056" summary="Class and static methods: Exercise 1 initial commit">
-      <option name="closed" value="true" />
-      <created>1763287707656</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1763287707656</updated>
     </task>
     <task id="LOCAL-00057" summary="Class and static methods: Exercise 2 initial commit">
       <option name="closed" value="true" />
@@ -525,11 +519,18 @@
       <option name="project" value="LOCAL" />
       <updated>1764248084853</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="Iterators and generators exercise: Exercise 8 initial commit">
+      <option name="closed" value="true" />
+      <created>1764248458577</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1764248458577</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SOLID: Exercise 2 initial commit" />
     <MESSAGE value="SOLID: Exercise 3 initial commit" />
     <MESSAGE value="SOLID: Exercise 4 initial commit" />
     <MESSAGE value="SOLID: Exercise 5 initial commit" />
@@ -554,6 +555,7 @@
     <MESSAGE value="Iterators and generators exercise: Exercise 5 initial commit" />
     <MESSAGE value="Iterators and generators exercise: Exercise 6 initial commit" />
     <MESSAGE value="Iterators and generators exercise: Exercise 7 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iterators and generators exercise: Exercise 7 initial commit" />
+    <MESSAGE value="Iterators and generators exercise: Exercise 8 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iterators and generators exercise: Exercise 8 initial commit" />
   </component>
 </project>
