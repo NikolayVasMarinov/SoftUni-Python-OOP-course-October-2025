@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Iterators and generators: Exercise 5 initial commit">
-      <change afterPath="$PROJECT_DIR$/Iterators_and_generators/zad6.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Iterators and generators: Exercise 6 initial commit">
+      <change afterPath="$PROJECT_DIR$/Iterators_and_generators_exercise/zad1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,14 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Encapsulation: Exercise 4 initial_commit">
-      <option name="closed" value="true" />
-      <created>1763069734262</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1763069734262</updated>
     </task>
     <task id="LOCAL-00049" summary="Encapsulation: Exercise 5 initial commit">
       <option name="closed" value="true" />
@@ -524,11 +517,18 @@
       <option name="project" value="LOCAL" />
       <updated>1764193356249</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="Iterators and generators: Exercise 6 initial commit">
+      <option name="closed" value="true" />
+      <created>1764193431373</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1764193431373</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Polymorphism and abstraction exercise: Fixed exercise 3 logic" />
     <MESSAGE value="Polymorphism and abstraction exercise: Exercise 4 initial commit" />
     <MESSAGE value="Polymorphism and abstraction exercise: Exercise 5 initial commit" />
     <MESSAGE value="Polymorphism and abstraction exercise: Exercise 6 initial commit" />
@@ -553,6 +553,7 @@
     <MESSAGE value="Iterators and generators: Exercise 3 initial commit" />
     <MESSAGE value="Iterators and generators: Exercise 4 initial commit" />
     <MESSAGE value="Iterators and generators: Exercise 5 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iterators and generators: Exercise 5 initial commit" />
+    <MESSAGE value="Iterators and generators: Exercise 6 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iterators and generators: Exercise 6 initial commit" />
   </component>
 </project>
