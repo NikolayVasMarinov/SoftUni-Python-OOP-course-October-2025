@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Decorators exercise: Exercise 4 initial commit">
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Decorators exercise: Exercise 6 initial commit">
       <change afterPath="$PROJECT_DIR$/Decorators_exercise/zad5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorators_exercise/zad6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorators_exercise/zad7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,14 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00066" summary="Polymorphism and abstraction: Exercise 3 initial commit">
-      <option name="closed" value="true" />
-      <created>1763584460818</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1763584460818</updated>
     </task>
     <task id="LOCAL-00067" summary="Polymorphism and abstraction: Exercise 4 initial commit">
       <option name="closed" value="true" />
@@ -528,11 +519,18 @@
       <option name="project" value="LOCAL" />
       <updated>1764531898402</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="Decorators exercise: Exercise 6 initial commit">
+      <option name="closed" value="true" />
+      <created>1764534449183</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1764534449183</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SOLID exercise: Exercise 8 initial commit" />
     <MESSAGE value="Iterators and generators: Exercise 1 initial commit" />
     <MESSAGE value="Iterators and generators: Exercise 1 using generator" />
     <MESSAGE value="Iterators and generators: Exercise 2 using generator" />
@@ -557,6 +555,7 @@
     <MESSAGE value="Decorators exercise: Exercise 2 initial commit" />
     <MESSAGE value="Decorators exercise: Exercise 3 initial commit" />
     <MESSAGE value="Decorators exercise: Exercise 4 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Decorators exercise: Exercise 4 initial commit" />
+    <MESSAGE value="Decorators exercise: Exercise 6 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Decorators exercise: Exercise 6 initial commit" />
   </component>
 </project>
