@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Decorators: Exercise 3 initial commit">
-      <change afterPath="$PROJECT_DIR$/Decorators/zad4.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Decorators: Exercise 4 initial commit">
+      <change afterPath="$PROJECT_DIR$/Decorators_exercise/zad1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,14 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Class and static methods exercise: Exercise 2 initial commit">
-      <option name="closed" value="true" />
-      <created>1763306491349</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1763306491352</updated>
     </task>
     <task id="LOCAL-00062" summary="Class and static methods exercise: Exercise 3 initial commit">
       <option name="closed" value="true" />
@@ -527,11 +519,18 @@
       <option name="project" value="LOCAL" />
       <updated>1764451654790</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="Decorators: Exercise 4 initial commit">
+      <option name="closed" value="true" />
+      <created>1764452903523</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1764452903523</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SOLID exercise: Exercise 3 initial commit" />
     <MESSAGE value="SOLID exercise: Exercise 4 initial commit" />
     <MESSAGE value="SOLID exercise: Exercise 5 initial commit" />
     <MESSAGE value="SOLID exercise: Exercise 6 initial commit" />
@@ -556,6 +555,7 @@
     <MESSAGE value="Decorators: Exercise 1 initial commit" />
     <MESSAGE value="Decorators: Exercise 2 initial commit" />
     <MESSAGE value="Decorators: Exercise 3 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Decorators: Exercise 3 initial commit" />
+    <MESSAGE value="Decorators: Exercise 4 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Decorators: Exercise 4 initial commit" />
   </component>
 </project>
