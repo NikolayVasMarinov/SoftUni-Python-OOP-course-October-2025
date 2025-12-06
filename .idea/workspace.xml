@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Decorators exercise: Exercise 8 initial commit">
-      <change afterPath="$PROJECT_DIR$/Decorators_exercise/zad5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorators_exercise/zad9/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorators_exercise/zad9/project/computer_store_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorators_exercise/zad9/project/computer_types/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorators_exercise/zad9/project/computer_types/computer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorators_exercise/zad9/project/computer_types/desktop_computer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorators_exercise/zad9/project/computer_types/laptop.py" afterDir="false" />
+    <list default="true" id="453870f2-5967-4b10-97d7-1d77a5dfb55b" name="Changes" comment="Decorators exercise: Exercise 9 initial commit">
+      <change afterPath="$PROJECT_DIR$/Regular_exam/Problem 1 &amp; 2/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_exam/Problem 1 &amp; 2/project/astronauts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_exam/Problem 1 &amp; 2/project/astronauts/base_astronaut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_exam/Problem 1 &amp; 2/project/astronauts/engineer_astronaut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_exam/Problem 1 &amp; 2/project/astronauts/scientist_astronaut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_exam/Problem 1 &amp; 2/project/space_agency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_exam/Problem 1 &amp; 2/project/stations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_exam/Problem 1 &amp; 2/project/stations/base_station.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_exam/Problem 1 &amp; 2/project/stations/maintenance_station.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular_exam/Problem 1 &amp; 2/project/stations/research_station.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Oct2025OOPCourse.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -76,8 +79,10 @@
     "Python tests.Python tests for temp.TestsPhotoAlbum.test_display_with_three_pages.executor": "Run",
     "Python tests.Python tests for temp.TestsPhotoAlbum.test_from_photos_should_create_instace.executor": "Run",
     "Python tests.Python tests for temp.TestsPhotoAlbum.test_init_creates_all_attributes.executor": "Run",
+    "Python tests.Python tests for test.SimpleTest.test_system_type_setter_invalid.executor": "Run",
     "Python tests.Python tests in temp.py (1).executor": "Run",
     "Python tests.Python tests in temp.py.executor": "Run",
+    "Python tests.Python tests in test.py.executor": "Run",
     "Python.01_workers.executor": "Run",
     "Python.02_workers_updated.executor": "Run",
     "Python.03_prisoner.executor": "Run",
@@ -120,12 +125,50 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse\Regular_exam\Problem 3" />
+      <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse\Regular_exam\Problem 1 &amp; 2" />
       <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse\Decorators_exercise\zad9\project\computer_types" />
       <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse\SOLID_exercise" />
       <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse\SOLID" />
-      <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse\Polymorphism_and_abstraction" />
-      <recent name="C:\Users\Niki\PycharmProjects\Oct2025OOPCourse" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests in test.py">
+    <configuration name="Python tests for test.SimpleTest.test_system_type_setter_invalid" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Oct2025OOPCourse" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regular_exam/Problem 3/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.SimpleTest.test_system_type_setter_invalid&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Oct2025OOPCourse" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regular_exam/Problem 3/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Regular_exam/Problem 3/project/test/test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in test.py" />
+        <item itemvalue="Python tests.Python tests for test.SimpleTest.test_system_type_setter_invalid" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -142,30 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762119804090</updated>
-    </task>
-    <task id="LOCAL-00069" summary="Polymorphism and abstraction exercise: Exercise 2 initial commit">
-      <option name="closed" value="true" />
-      <created>1763665958671</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1763665958671</updated>
-    </task>
-    <task id="LOCAL-00070" summary="Polymorphism and abstraction exercise: Fixed exercise 1 logic">
-      <option name="closed" value="true" />
-      <created>1763666262319</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1763666262319</updated>
-    </task>
-    <task id="LOCAL-00071" summary="Polymorphism and abstraction exercise: Fixed exercise 3 logic">
-      <option name="closed" value="true" />
-      <created>1763668395803</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1763668395803</updated>
     </task>
     <task id="LOCAL-00072" summary="Polymorphism and abstraction exercise: Exercise 4 initial commit">
       <option name="closed" value="true" />
@@ -535,13 +554,34 @@
       <option name="project" value="LOCAL" />
       <updated>1764534957270</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="Decorators exercise: Exercise 5 initial commit">
+      <option name="closed" value="true" />
+      <created>1764538163169</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1764538163169</updated>
+    </task>
+    <task id="LOCAL-00119" summary="Decorators exercise: Exercise 5 using wrapper function instead of class (judge 100/100)">
+      <option name="closed" value="true" />
+      <created>1764538392270</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1764538392270</updated>
+    </task>
+    <task id="LOCAL-00120" summary="Decorators exercise: Exercise 9 initial commit">
+      <option name="closed" value="true" />
+      <created>1764538409580</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1764538409580</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Iterators and generators: Exercise 2 using generator" />
-    <MESSAGE value="Iterators and generators: Exercise 3 initial commit" />
-    <MESSAGE value="Iterators and generators: Exercise 4 initial commit" />
     <MESSAGE value="Iterators and generators: Exercise 5 initial commit" />
     <MESSAGE value="Iterators and generators: Exercise 6 initial commit" />
     <MESSAGE value="Iterators and generators exercise: Exercise 1 initial commit" />
@@ -564,6 +604,9 @@
     <MESSAGE value="Decorators exercise: Exercise 6 initial commit" />
     <MESSAGE value="Decorators exercise: Exercise 7 initial commit" />
     <MESSAGE value="Decorators exercise: Exercise 8 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Decorators exercise: Exercise 8 initial commit" />
+    <MESSAGE value="Decorators exercise: Exercise 5 initial commit" />
+    <MESSAGE value="Decorators exercise: Exercise 5 using wrapper function instead of class (judge 100/100)" />
+    <MESSAGE value="Decorators exercise: Exercise 9 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Decorators exercise: Exercise 9 initial commit" />
   </component>
 </project>
